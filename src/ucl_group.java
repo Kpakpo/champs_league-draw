@@ -4,8 +4,8 @@ public class ucl_group {
     private String name;
 
 
-    public ucl_group(String gName){
-        name = "Group " + gName;
+    public ucl_group(String groupName){
+        name = "Group " + groupName;
     }
 
 }
